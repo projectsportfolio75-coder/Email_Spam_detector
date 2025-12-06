@@ -4,9 +4,7 @@ scikit-learn
 nltk
 joblib
 matplotlib
-nltk
 seaborn
-wordcloud
-barplotlib
-xgboost
-streamlit
+wordcloud==1.8.2.2
+xgboost==1.7.6
+streamlit==1.39.0
